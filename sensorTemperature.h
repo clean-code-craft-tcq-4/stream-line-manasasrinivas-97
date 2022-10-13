@@ -11,4 +11,5 @@ const int MIN_TEMPERATURE_VALUE -50
 using namespace std;
 
 vector<int> generateTemperatureValues(int minTemperatureValue, int maxTemperatureValue, int numberOfReadings);
+
 #endif

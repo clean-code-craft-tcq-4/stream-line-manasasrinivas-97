@@ -1,6 +1,6 @@
 #include "sensorDataSender.h"
 
-bool transferData()
+bool writeToConsole()
 {
     bool sendStatus = false;
     vector<int> temperatureData = generateTemperatureValues(MAX_TEMPERATURE_VALUE , MIN_TEMPERATURE_VALUE , NUMBER_OF_SAMPLES);

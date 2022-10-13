@@ -5,8 +5,8 @@
 #include <iostream>
 #include <cstdlib>
 
-const int MAX_TEMPERATURE_VALUE 100
-const int MIN_TEMPERATURE_VALUE -50
+const int MAX_TEMPERATURE_VALUE = 100;
+const int MIN_TEMPERATURE_VALUE = -50;
 
 using namespace std;
 

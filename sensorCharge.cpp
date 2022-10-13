@@ -5,7 +5,7 @@ vector<int> generateChargeValues(int maxChargeValue, int minChargeValue, int num
     vector<int> chargeValueList;
     for(int count = 0; count < numberOfReadings; count++)
     {
-        int rValue = rand() % maxChargeValue + maxChargeValue;
+        int rValue = rand() % maxChargeValue + minChargeValue;
         chargeValueList.push_back(rValue);
     }
     return chargeValueList;

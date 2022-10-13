@@ -5,8 +5,8 @@
 #include <iostream>
 #include <cstdlib>
 
-const int MAX_CHARGE_VALUE 100
-const int MIN_CHARGE_VALUE 0
+const int MAX_CHARGE_VALUE = 100;
+const int MIN_CHARGE_VALUE = 0;
 
 using namespace std;
 

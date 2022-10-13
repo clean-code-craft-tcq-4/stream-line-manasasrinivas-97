@@ -1,1 +1,5 @@
+#ifndef SENSORDATASENDER_H
+#define SENSORDATASENDER_H
 
+
+#endif

@@ -2,7 +2,7 @@
 #include "catch.hpp"
 #include <vector>
 #include <iostream>
-#include "sensorTemerature.h"
+#include "sensorTemperature.h"
 #include "sensorCharge.h"
 #include "sensorDataSender.h"
 

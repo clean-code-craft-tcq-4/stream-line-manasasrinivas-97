@@ -24,6 +24,7 @@ TEST_CASE("To check if charge values are generated correctly")
 
 TEST_CASE("TestWriteDataToConsole") {
   
+  writeDataToConsole();
   REQUIRE(writeDataToConsole() == true);
   
 }
